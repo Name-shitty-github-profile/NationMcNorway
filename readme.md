@@ -1,6 +1,6 @@
 # FRENCH
 Allez dans le dossier de votre langue ^^
 # NORWEGIAN
-åpne mappen av språket ditt ^^
+ikke opprettet ennå :/
 # ENGLISH
-Open the directory of your language ^^
+Not finished yet :/
