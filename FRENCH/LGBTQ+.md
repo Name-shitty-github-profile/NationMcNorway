@@ -2,4 +2,4 @@
 Mariage : Valide<br>
 Changement de sexe/genre : Valide <br>
 Non binaire : Reconnu.<br>
-Hate : Punis.
+Hate : Punis. (loi-12)
