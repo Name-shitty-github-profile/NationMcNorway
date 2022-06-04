@@ -2,4 +2,4 @@
 Mariage : Valid<br>
 Gender/Sexe change : Valide <br>
 Non binairy : Reconnu.<br>
-Hate : Punished. (loi-6-1)
+Hate : Punished. (law-6-1)
